@@ -1,0 +1,3 @@
+summon firework_rocket ~ ~1.5 ~ {FireworksItem:{id:firework_rocket, Count:1, components: {"minecraft:fireworks": {explosions: [{shape: "large_ball", colors: [I; 4312372], has_twinkle: true}, {shape: "large_ball", colors: [I; 15790320], has_twinkle: true}, {shape: "creeper", colors: [I; 3887386], Trail: true}, {shape: "large_ball", colors: [I; 4312372], has_twinkle: true},{shape: "star", colors: [I; 15790320], has_twinkle: true}, {shape: "large_ball", colors: [I; 3887386], has_twinkle: true},{shape: "star", colors: [I; 4312372], has_twinkle: true}, {shape: "large_ball", colors: [I; 15790320], has_twinkle: true}, {shape: "large_ball", colors: [I; 3887386], has_twinkle: true}, {shape: "large_ball", colors: [I; 4312372], has_twinkle: true}]}}}}
+
+kill @s
